@@ -64,3 +64,7 @@ npm start
 ```
 
 <br>
+
+# Live Preview
+
+[Live view](https://event-planning-mern.netlify.app/)
